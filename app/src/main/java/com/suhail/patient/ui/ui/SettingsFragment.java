@@ -80,8 +80,6 @@ FragmentSettingsBinding binding;
             }
         });
 
-
-
         return root;
     }
 }
